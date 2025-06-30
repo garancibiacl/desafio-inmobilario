@@ -44,7 +44,7 @@ const propiedades_alquiler = [
   },
   {
     nombre: "Casa con jardín",
-    src: "https://via.placeholder.com/300x200?text=Arriendo2",
+    src: "https://images.unsplash.com/photo-1669071192880-0a94316e6e09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     descripcion: "Espacio tranquilo, ideal para mascotas.",
     ubicacion: "Peñalolén",
     habitaciones: 3,
@@ -54,7 +54,7 @@ const propiedades_alquiler = [
   },
   {
     nombre: "Estudio compacto",
-    src: "https://via.placeholder.com/300x200?text=Arriendo3",
+    src: "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbmRvfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
     descripcion: "Perfecto para estudiante.",
     ubicacion: "Ñuñoa",
     habitaciones: 1,
